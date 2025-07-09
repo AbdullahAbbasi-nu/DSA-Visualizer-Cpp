@@ -55,10 +55,11 @@ Edit
 
 ## 💻 How to Build and Run
 
-### Using g++
+## Using g++
 ```bash
 g++ src/main.cpp -o DSAVisualizer
 ./DSAVisualizer
+```
 Using VS Code or CodeBlocks
 Open the folder in your IDE.
 
@@ -66,10 +67,10 @@ Add all .cpp files to your project.
 
 Build and run.
 
-📸 Screenshots
+## 📸 Screenshots
 To be added after implementation of modules and visualization steps.
 
-🗓️ Roadmap
+## 🗓️ Roadmap
  Day 1: GitHub setup and folder structure
 
  Day 2: Linked List implementation
@@ -86,15 +87,15 @@ To be added after implementation of modules and visualization steps.
 
  Final polish and GitHub showcase
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License.
 
-🙌 Acknowledgements
+## 🙌 Acknowledgements
 Inspiration from visualgo.net.
 
 C++ textbooks and online resources for algorithm references.
 
-⭐ Contributions & Support
+## ⭐ Contributions & Support
 This is a personal learning project to strengthen DSA and Git skills.
 
 If you find it useful for your DSA practice:
@@ -102,7 +103,7 @@ If you find it useful for your DSA practice:
 ✅ Fork it to practice your contributions
 ✅ Share feedback to improve
 
-📫 Contact
+##📫 Contact
 Abdullah Abbasi
 
 Email: [add your email if you wish]
